@@ -1,0 +1,8 @@
+PyQt5==5.15.9
+requests==2.31.0
+python-docx==0.8.11
+PyPDF2==3.0.1
+ebooklib==0.18
+pysrt==1.1.2
+chardet==5.2.0
+tqdm==4.66.1
